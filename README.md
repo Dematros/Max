@@ -44,7 +44,7 @@ WoW starten:
 WoW startest du immer über die wow.exe und niemals über den Launcher (sonst patcht der immer weiter)
 
 
-Beim einloggen musst du dich mit dem Benutzernamen von der Homepage ansonsten klappt es nicht.
+Beim einloggen musst du dich mit dem Benutzernamen von der Homepage anmelden ansonsten klappt es nicht.
 
 ----------------------------------------------------------------------------------------------------------------
 
